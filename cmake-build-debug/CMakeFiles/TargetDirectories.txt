@@ -1,0 +1,11 @@
+C:/Users/ioncu/CLionProjects/Cedacri/cmake-build-debug/CMakeFiles/Ex1.1.dir
+C:/Users/ioncu/CLionProjects/Cedacri/cmake-build-debug/CMakeFiles/Ex1.2.dir
+C:/Users/ioncu/CLionProjects/Cedacri/cmake-build-debug/CMakeFiles/Ex2.1.dir
+C:/Users/ioncu/CLionProjects/Cedacri/cmake-build-debug/CMakeFiles/Ex2.2.dir
+C:/Users/ioncu/CLionProjects/Cedacri/cmake-build-debug/CMakeFiles/Ex3.1.dir
+C:/Users/ioncu/CLionProjects/Cedacri/cmake-build-debug/CMakeFiles/Ex4.1.dir
+C:/Users/ioncu/CLionProjects/Cedacri/cmake-build-debug/CMakeFiles/Ex5.dir
+C:/Users/ioncu/CLionProjects/Cedacri/cmake-build-debug/CMakeFiles/Ex6.dir
+C:/Users/ioncu/CLionProjects/Cedacri/cmake-build-debug/CMakeFiles/Ex7.dir
+C:/Users/ioncu/CLionProjects/Cedacri/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ioncu/CLionProjects/Cedacri/cmake-build-debug/CMakeFiles/rebuild_cache.dir
